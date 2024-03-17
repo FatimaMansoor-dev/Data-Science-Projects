@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: 20px;
+}
+
+#image-preview {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 10px;
+}
