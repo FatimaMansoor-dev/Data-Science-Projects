@@ -1,0 +1,352 @@
+{
+    "1": {
+        "name": "Painting A",
+        "category": "Art",
+        "price": 1200,
+        "quantity": 3,
+        "value": 4
+    },
+    "2": {
+        "name": "Handmade Necklace",
+        "category": "Accessories",
+        "price": 800,
+        "quantity": 5,
+        "value": 5
+    },
+    "3": {
+        "name": "Gourmet Chocolate Box",
+        "category": "Food",
+        "price": 500,
+        "quantity": 10,
+        "value": 3
+    },
+    "4": {
+        "name": "Mini Sculpture",
+        "category": "Art",
+        "price": 1500,
+        "quantity": 2,
+        "value": 5
+    },
+    "5": {
+        "name": "Leather Journal",
+        "category": "Stationery",
+        "price": 700,
+        "quantity": 4,
+        "value": 3
+    },
+    "6": {
+        "name": "Ceramic Pot",
+        "category": "Crafts",
+        "price": 600,
+        "quantity": 6,
+        "value": 2
+    },
+    "7": {
+        "name": "Silver Earrings",
+        "category": "Accessories",
+        "price": 950,
+        "quantity": 3,
+        "value": 4
+    },
+    "8": {
+        "name": "Vintage Clock",
+        "category": "Art",
+        "price": 2200,
+        "quantity": 1,
+        "value": 5
+    },
+    "9": {
+        "name": "Handwoven Scarf",
+        "category": "Crafts",
+        "price": 300,
+        "quantity": 7,
+        "value": 2
+    },
+    "10": {
+        "name": "Designer Handbag",
+        "category": "Accessories",
+        "price": 2800,
+        "quantity": 2,
+        "value": 5
+    },
+    "11": {
+        "name": "Box of Truffles",
+        "category": "Food",
+        "price": 450,
+        "quantity": 8,
+        "value": 3
+    },
+    "12": {
+        "name": "Decorative Vase",
+        "category": "Crafts",
+        "price": 700,
+        "quantity": 5,
+        "value": 4
+    },
+    "13": {
+        "name": "Tea Set",
+        "category": "Kitchenware",
+        "price": 1200,
+        "quantity": 2,
+        "value": 4
+    },
+    "14": {
+        "name": "Scented Candles",
+        "category": "Home Decor",
+        "price": 300,
+        "quantity": 12,
+        "value": 3
+    },
+    "15": {
+        "name": "Embroidered Cushion",
+        "category": "Crafts",
+        "price": 450,
+        "quantity": 6,
+        "value": 2
+    },
+    "16": {
+        "name": "Abstract Art Print",
+        "category": "Art",
+        "price": 1000,
+        "quantity": 4,
+        "value": 4
+    },
+    "17": {
+        "name": "Crystal Pendant",
+        "category": "Accessories",
+        "price": 950,
+        "quantity": 3,
+        "value": 4
+    },
+    "18": {
+        "name": "Leather Wallet",
+        "category": "Accessories",
+        "price": 1200,
+        "quantity": 3,
+        "value": 4
+    },
+    "19": {
+        "name": "Wooden Coasters",
+        "category": "Home Decor",
+        "price": 600,
+        "quantity": 5,
+        "value": 3
+    },
+    "20": {
+        "name": "Herbal Tea Pack",
+        "category": "Food",
+        "price": 350,
+        "quantity": 10,
+        "value": 2
+    },
+    "21": {
+        "name": "Knitted Blanket",
+        "category": "Crafts",
+        "price": 2500,
+        "quantity": 1,
+        "value": 5
+    },
+    "22": {
+        "name": "Custom Portrait",
+        "category": "Art",
+        "price": 3000,
+        "quantity": 1,
+        "value": 5
+    },
+    "23": {
+        "name": "Vintage Map",
+        "category": "Art",
+        "price": 1800,
+        "quantity": 2,
+        "value": 4
+    },
+    "24": {
+        "name": "Handcrafted Bowl",
+        "category": "Kitchenware",
+        "price": 800,
+        "quantity": 4,
+        "value": 3
+    },
+    "25": {
+        "name": "Handmade Notebook",
+        "category": "Stationery",
+        "price": 500,
+        "quantity": 6,
+        "value": 2
+    },
+    "26": {
+        "name": "Decorative Mirror",
+        "category": "Home Decor",
+        "price": 2000,
+        "quantity": 1,
+        "value": 4
+    },
+    "27": {
+        "name": "Coffee Mug Set",
+        "category": "Kitchenware",
+        "price": 900,
+        "quantity": 3,
+        "value": 3
+    },
+    "28": {
+        "name": "Macrame Wall Hanging",
+        "category": "Crafts",
+        "price": 1200,
+        "quantity": 2,
+        "value": 4
+    },
+    "29": {
+        "name": "Jewelry Box",
+        "category": "Accessories",
+        "price": 1500,
+        "quantity": 2,
+        "value": 5
+    },
+    "30": {
+        "name": "Artisanal Soap Pack",
+        "category": "Others",
+        "price": 300,
+        "quantity": 12,
+        "value": 2
+    },
+    "31": {
+        "name": "Cozy Socks",
+        "category": "Clothing",
+        "price": 400,
+        "quantity": 8,
+        "value": 3
+    },
+    "32": {
+        "name": "Indoor Plant",
+        "category": "Home Decor",
+        "price": 600,
+        "quantity": 5,
+        "value": 4
+    },
+    "33": {
+        "name": "Ceramic Serving Dish",
+        "category": "Kitchenware",
+        "price": 1200,
+        "quantity": 2,
+        "value": 4
+    },
+    "34": {
+        "name": "Framed Photograph",
+        "category": "Art",
+        "price": 1800,
+        "quantity": 2,
+        "value": 4
+    },
+    "35": {
+        "name": "Eco-friendly Tote Bag",
+        "category": "Accessories",
+        "price": 700,
+        "quantity": 4,
+        "value": 3
+    },
+    "36": {
+        "name": "Handmade Basket",
+        "category": "Crafts",
+        "price": 800,
+        "quantity": 3,
+        "value": 3
+    },
+    "37": {
+        "name": "Bamboo Cutlery Set",
+        "category": "Kitchenware",
+        "price": 500,
+        "quantity": 6,
+        "value": 3
+    },
+    "38": {
+        "name": "Artisan Bread",
+        "category": "Food",
+        "price": 300,
+        "quantity": 8,
+        "value": 2
+    },
+    "39": {
+        "name": "Travel Journal",
+        "category": "Stationery",
+        "price": 900,
+        "quantity": 3,
+        "value": 3
+    },
+    "40": {
+        "name": "Knitted Hat",
+        "category": "Clothing",
+        "price": 400,
+        "quantity": 8,
+        "value": 3
+    },
+    "41": {
+        "name": "Wall Clock",
+        "category": "Home Decor",
+        "price": 1500,
+        "quantity": 1,
+        "value": 4
+    },
+    "42": {
+        "name": "Throw Pillow",
+        "category": "Crafts",
+        "price": 700,
+        "quantity": 4,
+        "value": 3
+    },
+    "43": {
+        "name": "Tea Infuser",
+        "category": "Kitchenware",
+        "price": 300,
+        "quantity": 8,
+        "value": 2
+    },
+    "44": {
+        "name": "Art Set",
+        "category": "Stationery",
+        "price": 1200,
+        "quantity": 2,
+        "value": 4
+    },
+    "45": {
+        "name": "Handmade Quilt",
+        "category": "Crafts",
+        "price": 3000,
+        "quantity": 1,
+        "value": 5
+    },
+    "46": {
+        "name": "Crochet Tablecloth",
+        "category": "Crafts",
+        "price": 2500,
+        "quantity": 1,
+        "value": 5
+    },
+    "47": {
+        "name": "Vintage Pendant",
+        "category": "Accessories",
+        "price": 2000,
+        "quantity": 1,
+        "value": 5
+    },
+    "48": {
+        "name": "Handwoven Rug",
+        "category": "Crafts",
+        "price": 3500,
+        "quantity": 1,
+        "value": 5
+    },
+    "49": {
+        "name": "Artisan Cheese",
+        "category": "Food",
+        "price": 400,
+        "quantity": 8,
+        "value": 3
+    },
+    "50": {
+        "name": "Luxury Pen",
+        "category": "Stationery",
+        "price": 2500,
+        "quantity": 1,
+        "value": 5
+    }
+}
